@@ -59,13 +59,41 @@ Major software components include:
 - motor and servo control
 - emergency-state logic
 
-## System Architecture
-
-The Dragon12-Plus board receives data from the pool sensors, processes the readings, and controls the connected output devices based on the detected conditions.
-
 ## Prototype
 
+<p align="center">
+  <img src="media/Screenshot%202026-09-19%20162834.png" width="550" alt="Smart Pool Safety System prototype">
+</p>
+
 This project was implemented as a physical prototype representing a swimming pool environment, including a working lifebuoy-release mechanism and connected sensors and actuators.
+
+### Hardware Setup
+
+<p align="center">
+  <img src="media/Screenshot%202026-09-19%20162848.png" width="420" alt="Dragon12-Plus hardware setup">
+</p>
+
+### Pool Safety Mechanism
+
+<p align="center">
+  <img src="media/IMG_0778.jpeg" width="420" alt="Pool safety and lifebuoy release mechanism">
+  <img src="media/IMG_0779.jpeg" width="420" alt="Smart pool prototype">
+</p>
+
+### Wiring and Electronics
+
+<p align="center">
+  <img src="media/Picture2.jpg" width="400" alt="Dragon12-Plus wiring setup">
+  <img src="media/Picture3.jpg" width="400" alt="Sensor and electronics connections">
+</p>
+
+## System Architecture
+
+<p align="center">
+  <img src="media/Picture1.png" width="700" alt="System block diagram">
+</p>
+The Dragon12-Plus board receives data from the pool sensors, processes the readings, and controls the connected output devices based on the detected conditions.
+
 
 ## Future Improvements
 
