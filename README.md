@@ -94,6 +94,17 @@ This project was implemented as a physical prototype representing a swimming poo
 </p>
 The Dragon12-Plus board receives data from the pool sensors, processes the readings, and controls the connected output devices based on the detected conditions.
 
+## Demo Videos
+
+### Quick Demo
+Short demonstration showing the full system in operation.
+
+[▶ Watch the 2-minute demo](https://youtube.com/shorts/Rnq7k0bsNPg?feature=share)
+
+### Full Walkthrough
+Detailed explanation of the prototype, sensors, system behavior, and emergency response.
+
+[▶ Watch the 4-minute walkthrough](https://youtu.be/G60h4LDBblw)
 
 ## Future Improvements
 
