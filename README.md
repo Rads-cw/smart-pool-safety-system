@@ -4,6 +4,10 @@ Embedded swimming pool safety and monitoring system built using the **Dragon12-P
 
 The system combines multiple sensors and actuators to monitor pool conditions and respond automatically to potential hazards.
 
+## Project Purpose
+
+This project demonstrates how an embedded system can combine environmental monitoring with automated safety responses in a swimming pool prototype.
+
 ## Features
 
 - Waterproof ultrasonic sensing for possible drowning detection
